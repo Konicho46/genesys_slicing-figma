@@ -1,4 +1,4 @@
-# POS Dashboard 🍽️
+# Sales Dashboard 🍽️
 
 Project ini adalah **Dashboard POS (Point of Sales)** sederhana yang dibuat menggunakan **HTML, CSS, dan sedikit JavaScript**.  
 Aplikasi ini hanya berbentuk **static website**, sehingga bisa langsung dijalankan di browser tanpa konfigurasi tambahan.
